@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("  бсбсбсбс\n");
+    printf(" бсбс   бсбс\n");
+    printf("      бсбс\n");
+    printf("    бсбс\n");
+    printf("      бсбс\n");
+    printf(" бсбс   бсбс\n");
+    printf("  бсбсбсбс\n\n");
+
+    printf("  бсбсбсбс\n");
+    printf(" бсбс   бсбс\n");
+    printf("      бсбс\n");
+    printf("    бсбс\n");
+    printf("  бсбс\n");
+    printf(" бсбс   бсбс\n");
+    printf(" бсбсбсбсбс\n\n");
+
+    printf("    бсбс\n");
+    printf("  бсбсбс\n");
+    printf("    бсбс\n");
+    printf("    бсбс\n");
+    printf("    бсбс\n");
+    printf("    бсбс\n");
+    printf(" бсбсбсбсбс\n");
+
+}
